@@ -1,0 +1,48 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: #109ae969;
+    margin-bottom: 60px;
+}
+
+h1 {
+    color: rgb(4, 22, 119);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 16px;
+}
+
+#buttons-view {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: rgb(20, 16, 236)
+}
+
+.btn {
+    margin: 10px;
+}
+
+img {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    width: 400px;
+}
+
+img {
+    border-radius: 5px;
+    border: 2px solid rgb(1, 55, 235);
+}
+
+#add-hero {
+    background-color: #0aaff0;
+    color: white;
+    border: 1px solid #08aef0;
+}
